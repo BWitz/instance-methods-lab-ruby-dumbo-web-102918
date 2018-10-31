@@ -1,6 +1,8 @@
 class Dog
-  @bark = "Woof!"
-  @sit = "The dog is sitting"
-  
+  def @bark 
+  puts "Woof!"
+  end
+  def @sit
+  puts "The dog is sitting"
+  end 
 end
-
